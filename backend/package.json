@@ -4,15 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 2c714bf6aac1b5596181a1fdb38111cdc17453ef
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+<<<<<<< HEAD
     "dotenv": "^17.2.3",
+=======
+>>>>>>> 2c714bf6aac1b5596181a1fdb38111cdc17453ef
     "express": "^5.1.0",
     "mongoose": "^8.19.3",
     "nodemon": "^3.1.10"
